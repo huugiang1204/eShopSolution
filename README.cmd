@@ -1,1 +1,1 @@
-#
+#dotnet core 3.1
